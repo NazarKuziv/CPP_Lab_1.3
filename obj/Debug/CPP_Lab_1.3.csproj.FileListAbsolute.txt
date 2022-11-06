@@ -1,0 +1,8 @@
+D:\ddpu\ККП\Лаб\CPP_Lab_1.3\bin\Debug\CPP_Lab_1.3.exe.config
+D:\ddpu\ККП\Лаб\CPP_Lab_1.3\bin\Debug\CPP_Lab_1.3.exe
+D:\ddpu\ККП\Лаб\CPP_Lab_1.3\bin\Debug\CPP_Lab_1.3.pdb
+D:\ddpu\ККП\Лаб\CPP_Lab_1.3\obj\Debug\CPP_Lab_1.3.csproj.AssemblyReference.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_1.3\obj\Debug\CPP_Lab_1.3.csproj.SuggestedBindingRedirects.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_1.3\obj\Debug\CPP_Lab_1.3.csproj.CoreCompileInputs.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_1.3\obj\Debug\CPP_Lab_1.3.exe
+D:\ddpu\ККП\Лаб\CPP_Lab_1.3\obj\Debug\CPP_Lab_1.3.pdb
