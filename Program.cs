@@ -452,7 +452,7 @@ namespace CPP_Lab_1._3
                     }
 
                 }
-                if (pf1.GetItem(id) == null) Console.WriteLine(" Неправильне ID!");
+                if (delete == false) Console.WriteLine(" Неправильне ID!");
 
             } while (delete == false);
 
